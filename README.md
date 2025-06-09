@@ -1,1 +1,149 @@
-# Aplikasi-kasir-SembakoKu
+
+<a id="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://maverickteam.my.id/">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">SembakoKu - Maverick</h3>
+
+  <p align="center">
+    Repository Project Kasir Sembako Semester 2!
+    <br />
+    <a href="https://maverickteam.my.id/"><strong>Website Maverick»</strong></a>
+    <br />
+    <br />
+    <a href="https://youtu.be/7snT5dE0-2o?si=9WNqOicHAZliyeqT">View Demo</a>
+    &middot;
+    <a href="https://wa.link/6pdonr">Report Bug</a>
+    &middot;
+    <a href="https://wa.link/6pdonr">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://maverickteam.my.id/)
+
+SembakoKu adalah sebuah aplikasi kasir berbasis Java yang dirancang untuk membantu pengelolaan transaksi pada toko sembako secara efisien dan akurat. Aplikasi ini mempermudah pencatatan penjualan, pengelolaan stok barang, serta pembuatan laporan transaksi secara real-time.
+
+Fitur Utama:
+✅ Manajemen Stok – Memantau ketersediaan barang dan memperbarui stok secara otomatis setelah transaksi.
+✅ Transaksi Cepat & Akurat – Memproses penjualan dengan sistem pencatatan yang efisien dan mengurangi risiko kesalahan input.
+✅ Laporan Keuangan – Menyediakan rekap transaksi harian, mingguan, dan bulanan untuk membantu pemilik usaha dalam analisis keuangan.
+✅ Dukungan Barcode – Memudahkan pencatatan barang dengan pemindaian barcode untuk mempercepat proses transaksi.
+✅ Multi-User Role – Mendukung akses admin dan karyawan dengan hak akses yang berbeda untuk menjaga keamanan data.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Built With
+
+Aplikasi ini dibuat menggunakan:
+
+* [![Next][Java]][Java-url]
+* [![React][Mysql]][Mysql-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://maverickteam.my.id/sembakoku.html)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### Top contributors:
+
+<a href="https://github.com/diamers/Maverick_Sembakoku/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=diamers/Maverick_Sembakoku" alt="contrib.rocks image" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the Unlicense License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Instagram - [@maverick.trois](https://www.instagram.com/maverick.trois/) - maverickmadurasq@gmail.com
+
+Project Link: [https://maverickteam.my.id/sembakoku.html](https://maverickteam.my.id/sembakoku.html)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/diamers/Maverick_Sembakoku.svg?style=for-the-badge
+[contributors-url]: https://github.com/diamers/Maverick_Sembakoku/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/diamers/Maverick_Sembakoku.svg?style=for-the-badge
+[forks-url]: https://github.com/diamers/Maverick_Sembakoku/network/members
+[stars-shield]: https://img.shields.io/github/stars/diamers/Maverick_Sembakoku.svg?style=for-the-badge
+[stars-url]: https://github.com/diamers/Maverick_Sembakoku/stargazers
+[issues-shield]: https://img.shields.io/github/issues/diamers/Maverick_Sembakoku.svg?style=for-the-badge
+[issues-url]: https://github.com/diamers/Maverick_Sembakoku/issues
+[product-screenshot]: images/screenshot.png
+[Java]: https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjM0NiIgcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQiIHZpZXdCb3g9IjAgMCAyNTYgMzQ2IiB3aWR0aD0iMjU2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im04Mi41NTM5NDkxIDI2Ny40NzI1MjRzLTEzLjE5ODQyOTEgNy42NzUzNDUgOS4zOTI4NzI3IDEwLjI3MjU4MWMyNy4zNjg3MjcyIDMuMTIyMjcgNDEuMzU2NTY3MiAyLjY3NDUwMiA3MS41MTcwOTEyLTMuMDMzODMyIDAgMCA3LjkyOTQ4MyA0Ljk3MTk4NSAxOS4wMDM1NzggOS4yNzgzNzEtNjcuNjExOTI3IDI4Ljk3NzMzOC0xNTMuMDE5MTEyOC0xLjY3ODQyOS05OS45MTM1NDE5LTE2LjUxNzEyIiBmaWxsPSIjNTM4MmExIi8+PHBhdGggZD0ibTc0LjI5MjEzMDkgMjI5LjY1ODk5NnMtMTQuODAzMzE2NCAxMC45NTc3MzEgNy44MDQ3NDE4IDEzLjI5NjE3NWMyOS4yMzYxMzEzIDMuMDE2MTQ1IDUyLjMyNDUzODMgMy4yNjI4MzYgOTIuMjc2MzYzMy00LjQzMDE5NiAwIDAgNS41MjU4NzcgNS42MDIyMSAxNC4yMTQ5ODIgOC42NjU4MzItODEuNzQ2ODUxIDIzLjkwMzg4NC0xNzIuNzk4MTM4IDEuODg1MDkxLTExNC4yOTYwODcxLTE3LjUzMTgxMSIgZmlsbD0iIzUzODJhMSIvPjxwYXRoIGQ9Im0xNDMuOTQxODE4IDE2NS41MTQ3MDVjMTYuNjU5NTQ5IDE5LjE4MDQ1MS00LjM3NzEzNCAzNi40NDA0MzctNC4zNzcxMzQgMzYuNDQwNDM3czQyLjMwMTQ0LTIxLjgzNzI2NiAyMi44NzQyOTgtNDkuMTgyNzJjLTE4LjE0NDM0OS0yNS41MDEzMjQtMzIuMDU4NjQ3LTM4LjE3MTkyNyA0My4yNjc3MjMtODEuODU4NTYwMiAwIDAtMTE4LjIzNzU1NTkgMjkuNTMwMjk4Mi02MS43NjQ4ODcgOTQuNjAwODQzMiIgZmlsbD0iI2U3NmYwMCIvPjxnIGZpbGw9IiM1MzgyYTEiPjxwYXRoIGQ9Im0yMzMuMzY0MDE1IDI5NS40NDE2ODdzOS43NjcwOTggOC4wNDc3MDktMTAuNzU2NjU1IDE0LjI3MzYyOWMtMzkuMDI2NTAyIDExLjgyMjU0Ni0xNjIuNDMyNDY1NSAxNS4zOTI1ODItMTk2LjcxNDEyMzYuNDcxMDQtMTIuMzIzMzc0Ni01LjM2MTEwNSAxMC43ODY0NDM2LTEyLjgwMDkzMSAxOC4wNTU5MTI3LTE0LjM2MjA2NSA3LjU4MTMyMzYtMS42NDM5ODYgMTEuOTEzNzc0NS0xLjMzNzcxNiAxMS45MTM3NzQ1LTEuMzM3NzE2LTEzLjcwNDg0MzYtOS42NTQ0NTktODguNTgyNTE2MyAxOC45NTcwMzItMzguMDM0MTUyNyAyNy4xNTA4OTQgMTM3Ljg1Mjc0MjEgMjIuMzU1NzgyIDI1MS4yOTIzOTMxLTEwLjA2Njg1MSAyMTUuNTM1MjQ0MS0yNi4xOTU3ODIiLz48cGF0aCBkPSJtODguOTAwODg3MyAxOTAuNDc5ODI1cy02Mi43NzIxMzA5IDE0LjkwOTQ0LTIyLjIyOTE3ODIgMjAuMzIzNjA4YzE3LjExODQ4NzMgMi4yOTE4OTggNTEuMjQzNzUyOSAxLjc3MzM4MiA4My4wMzA1NzQ5LS44ODk5NDkgMjUuOTc3OTQ5LTIuMTkxMzYgNTIuMDYyOTUyLTYuODUwNTYgNTIuMDYyOTUyLTYuODUwNTZzLTkuMTYwMTQ1IDMuOTIyODUxLTE1Ljc4NzI4NyA4LjQ0OGMtNjMuNzQ0IDE2Ljc2NDc0MS0xODYuODg1NTg1MzYgOC45NjU1ODUtMTUxLjQzNDcwNTQtOC4xODI2OTEgMjkuOTgwODU4Mi0xNC40OTIzOTMgNTQuMzU3NjQzNy0xMi44NDg0MDggNTQuMzU3NjQzNy0xMi44NDg0MDgiLz48cGF0aCBkPSJtMjAxLjUwNjQ0NCAyNTMuNDIyMzEzYzY0Ljc5ODcyLTMzLjY3MTkxMyAzNC44MzgzNDEtNjYuMDMwMzEzIDEzLjkyNjQtNjEuNjcwODY2LTUuMTI1NTg2IDEuMDY2ODIyLTcuNDEwOTY4IDEuOTkxMjE1LTcuNDEwOTY4IDEuOTkxMjE1czEuOTAyNzc5LTIuOTgwNzcxIDUuNTM3MDQ4LTQuMjcxMDExYzQxLjM3MDUzMS0xNC41NDQ1MjQgNzMuMTg3MTQxIDQyLjg5NzIyMi0xMy4zNTQ4MjIgNjUuNjQ3NzA5IDAgLjAwMDkzMSAxLjAwMjU4OS0uODk1NTM1IDEuMzAyMzQyLTEuNjk3MDQ3Ii8+PC9nPjxwYXRoIGQ9Im0xNjIuNDM4OTgyLjM3MTQzMjczczM1Ljg4NjU0NSAzNS44OTg2NDcyNy0zNC4wMzY4MjkgOTEuMTAwNjI1NDdjLTU2LjA3MTQ0NzUgNDQuMjgxNDgzOC0xMi43ODYwMzcgNjkuNTI5NTk5OC0uMDIzMjczIDk4LjM3NjYxMDgtMzIuNzI5ODMyNy0yOS41MzAyOTgtNTYuNzQ5MTQ5MS01NS41MjU5MzQtNDAuNjM1MTEyNy03OS43MjAyNjIgMjMuNjUxNjA3Ny0zNS41MTUxMTI1IDg5LjE3NDU3NDctNTIuNzM0MTM3OSA3NC42OTUyMTQ3LTEwOS43NTY5NzQyNyIgZmlsbD0iI2U3NmYwMCIvPjxwYXRoIGQ9Im05NS4yNjgzMDU1IDM0NC42NjUzNjdjNjIuMTk4NjkwNSAzLjk4MTQ5OCAxNTcuNzExODI1NS0yLjIwOTA0NyAxNTkuOTczOTM0NS0zMS42Mzk3MzggMCAwLTQuMzQ4Mjc2IDExLjE1Njk0Ni01MS40MDM4NjkgMjAuMDE3MzM4LTUzLjA4Nzg4NCA5Ljk5MDUxNy0xMTguNTY0MzA1NSA4LjgyNDA4OC0xNTcuMzk5MDQwMSAyLjQyMTI5NS4wMDA5MzA5LS4wMDA5MzEgNy45NDk5NjM2IDYuNTc5NjY1IDQ4LjgyODk3NDYgOS4yMDExMDUiIGZpbGw9IiM1MzgyYTEiLz48L3N2Zz4=
+[Java-url]: https://www.java.com/en/
+[Mysql]: https://img.shields.io/badge/MySQL-2f3f59?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iLTE4LjQ1OCAtMjIuNzUgMTkxLjE1MSAxOTEuMTUxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0tMTguNDU4IDYuNThoMTkxLjE1MXYxMzIuNDlILTE4LjQ1OFY2LjU4eiIgZmlsbD0ibm9uZSIvPjxwYXRoIGQ9Ik00MC4wNTQgMTEzLjU4M2gtNS4xNzVjLS4xODMtOC43MzUtLjY4Ny0xNi45NDctMS41MTEtMjQuNjQyaC0uMDQ2bC03Ljg3OSAyNC42NDJoLTMuOTRsLTcuODMyLTI0LjY0MmgtLjA0NWMtLjU4MSA3LjM4OC0uOTQ3IDE1LjYwMi0xLjA5OSAyNC42NDJINy44MWMuMzA0LTEwLjk5MyAxLjA2OC0yMS4yOTkgMi4yODktMzAuOTE5aDYuNDE0bDcuNDY1IDIyLjcxOWguMDQ2bDcuNTExLTIyLjcxOWg2LjEzN2MxLjM0NCAxMS4yNjggMi4xMzggMjEuNTc1IDIuMzgyIDMwLjkxOU02Mi40OTcgOTAuNzcxYy0yLjEwNyAxMS40MzQtNC44ODcgMTkuNzQyLTguMzM3IDI0LjkyOC0yLjY4OCAzLjk5Mi01LjYzMyA1Ljk5LTguODQgNS45OS0uODU1IDAtMS45MS0uMjU4LTMuMTYtLjc3di0yLjc1N2MuNjExLjA4OCAxLjMyOC4xMzggMi4xNTIuMTM4IDEuNDk4IDAgMi43MDItLjQxMiAzLjYyLTEuMjM4IDEuMDk4LTEuMDA2IDEuNjQ3LTIuMTM3IDEuNjQ3LTMuMzg4IDAtLjg1OC0uNDI4LTIuNjEyLTEuMjgyLTUuMjY4TDQyLjYxOCA5MC43N2g1LjA4NGw0LjA3NiAxMy4xOWMuOTE2IDIuOTk1IDEuMjk4IDUuMDg2IDEuMTQ1IDYuMjc3IDIuMjI5LTUuOTUzIDMuNzg2LTEyLjQ0NCA0LjY3My0xOS40NjhoNC45MDF2LjAwMnoiIGZpbGw9IiM1ZDg3YTEiLz48cGF0aCBkPSJNMTMxLjM4MiAxMTMuNTgzaC0xNC43VjgyLjY2NGg0Ljk0NXYyNy4xMTNoOS43NTV2My44MDZ6TTExMi44MzQgMTE0LjMzbC01LjY4NC0yLjgwNWMuNTA0LS40MTQuOTg2LS44NjIgMS40Mi0xLjM4MSAyLjQxNi0yLjgzOCAzLjYyMS03LjAzNSAzLjYyMS0xMi41OTQgMC0xMC4yMjktNC4wMTQtMTUuMzQ2LTEyLjA0NS0xNS4zNDYtMy45MzggMC03LjAxIDEuMjk4LTkuMjA3IDMuODk1LTIuNDE0IDIuODQtMy42MTkgNy4wMjItMy42MTkgMTIuNTUxIDAgNS40MzUgMS4wNjggOS40MjIgMy4yMDUgMTEuOTUxIDEuOTU1IDIuMjkxIDQuOTAyIDMuNDM4IDguODQzIDMuNDM4IDEuNDcgMCAyLjgxOS0uMTggNC4wNDgtLjU0M2w3LjQgNC4zMDggMi4wMTgtMy40NzR6bS0xOC40MTMtNi45MzRjLTEuMjUyLTIuMDE0LTEuODc4LTUuMjQ4LTEuODc4LTkuNzA3IDAtNy43ODUgMi4zNjUtMTEuNjgyIDcuMS0xMS42ODIgMi40NzUgMCA0LjI4OS45MzIgNS40NDkgMi43OTIgMS4yNSAyLjAxNyAxLjg3OSA1LjIyMiAxLjg3OSA5LjYxOSAwIDcuODQ5LTIuMzY3IDExLjc3NC03LjA5OSAxMS43NzQtMi40NzYuMDAxLTQuMjktLjkyOC01LjQ1MS0yLjc5Nk04NS4xNjUgMTA1LjAxM2MwIDIuNjIyLS45NjIgNC43NzMtMi44ODQgNi40NTgtMS45MjQgMS42NzgtNC41MDQgMi41MTktNy43MzcgMi41MTktMy4wMjQgMC01Ljk1Ni0uOTY2LTguNzk0LTIuODg4bDEuMzI5LTIuNjU1YzIuNDQyIDEuMjIzIDQuNjUzIDEuODMxIDYuNjM4IDEuODMxIDEuODYzIDAgMy4zMTktLjQxMyA0LjM3NS0xLjIzMiAxLjA1NS0uODIyIDEuNjg0LTEuOTc1IDEuNjg0LTMuNDMzIDAtMS44MzctMS4yODEtMy40MDctMy42MzEtNC43MjItMi4xNjctMS4xOS02LjUwMS0zLjY3OC02LjUwMS0zLjY3OC0yLjM0OS0xLjcxMi0zLjUyNS0zLjU1LTMuNTI1LTYuNTc4IDAtMi41MDYuODc3LTQuNTI5IDIuNjMyLTYuMDY4IDEuNzU3LTEuNTQ1IDQuMDI0LTIuMzE1IDYuODAzLTIuMzE1IDIuODcgMCA1LjQ3OS43NjkgNy44MjkgMi4yOTFsLTEuMTkyIDIuNjU2Yy0yLjAxLS44NTQtMy45OTQtMS4yODEtNS45NTEtMS4yODEtMS41ODUgMC0yLjgwOS4zODEtMy42NiAxLjE0Ni0uODU4Ljc2Mi0xLjM4NyAxLjczNy0xLjM4NyAyLjkzMyAwIDEuODI4IDEuMzA4IDMuNDE4IDMuNzIyIDQuNzU5IDIuMTk2IDEuMTkyIDYuNjM4IDMuNzIzIDYuNjM4IDMuNzIzIDIuNDA5IDEuNzA5IDMuNjEyIDMuNTMgMy42MTIgNi41MzQiIGZpbGw9IiNmODk4MWQiLz48cGF0aCBkPSJNMTM3LjU5IDcyLjMwOGMtMi45OS0uMDc2LTUuMzA1LjIyNS03LjI0OCAxLjA0Ny0uNTYxLjIyNC0xLjQ1My4yMjQtMS41MzEuOTMzLjMwMy4zLjMzOC43ODQuNjAxIDEuMTk4LjQ0OC43NDcgMS4yMjkgMS43NTIgMS45NDIgMi4yNzYuNzgzLjYgMS41NjkgMS4xOTQgMi4zOTMgMS43MTcgMS40NTMuODk5IDMuMSAxLjQyMiA0LjUxNiAyLjMxOC44MjUuNTIxIDEuNjQ1IDEuMTk1IDIuNDcxIDEuNzU2LjQwNi4yOTkuNjY2Ljc4NCAxLjE5My45NzF2LS4xMTRjLS4yNjQtLjMzNi0uMzM5LS44MjItLjU5OC0xLjE5NmwtMS4xMjItMS4wODJjLTEuMDg0LTEuNDU2LTIuNDMxLTIuNzI3LTMuODg0LTMuNzcxLTEuMTk2LS44MjQtMy44MTItMS45NDQtNC4yOTctMy4zMjJsLS4wNzYtLjA3NmMuODIyLS4wNzcgMS43OTctLjM3NSAyLjU3OC0uNjA0IDEuMjcxLS4zMzUgMi40My0uMjU5IDMuNzM0LS41OTQuNi0uMTUgMS4xOTUtLjMzOCAxLjc5Ny0uNTIzdi0uMzM3Yy0uNjc2LS42NzMtMS4xNTgtMS41NjctMS44NjktMi4yMDMtMS45MDItMS42NDMtMy45OTgtMy4yNS02LjE2NC00LjU5NS0xLjE2LS43NDktMi42NTItMS4yMzEtMy44ODctMS44NjgtLjQ0NS0uMjI1LTEuMTk1LS4zMzYtMS40NTctLjcxLS42Ny0uODIyLTEuMDQ3LTEuOTA0LTEuNTMzLTIuODc3LTEuMDgtMi4wNTMtMi4xMjktNC4zMzEtMy4wNjEtNi41MDItLjY3NC0xLjQ1Ni0xLjA4NC0yLjkxLTEuOTA2LTQuMjU3LTMuODUtNi4zNS04LjAzMS0xMC4xOTYtMTQuNDU3LTEzLjk3MS0xLjM4MS0uNzg2LTMuMDI0LTEuMTIxLTQuNzc5LTEuNTMzbC0yLjgwMy0uMTQ4Yy0uNTk4LS4yNjItMS4xOTctLjk3My0xLjcxOS0xLjMwOS0yLjEzMi0xLjM0NC03LjYyMS00LjI1Ny05LjE4OS0uNDExLTEuMDEgMi40MzEgMS40OTQgNC44MjEgMi4zNTQgNi4wNTQuNjM1Ljg1NiAxLjQ1OCAxLjgzIDEuOTAyIDIuODAyLjI2My42MzUuMzM3IDEuMzA5LjYgMS45OC41OTggMS42NDQgMS4xNTcgMy40NzMgMS45NDMgNS4wMDcuNDEuNzgyLjg1NyAxLjYwNCAxLjM4MSAyLjMxMi4zLjQxNC44MjIuNTk3LjkzNiAxLjI3Mi0uNTIxLjc0NC0uNTYyIDEuODY3LS44NjEgMi44MDEtMS4zNDQgNC4yMjEtLjgxOSA5LjQ1IDEuMDg2IDEyLjU1Mi41OTYuOTM0IDIuMDE4IDIuOTkgMy45MiAyLjIwMiAxLjY4NC0uNjcyIDEuMzExLTIuODAxIDEuNzk1LTQuNjY4LjExMS0uNDUxLjAzOC0uNzQ3LjI2Mi0xLjA0M3YuMDczYy41MjEgMS4wNDUgMS4wNDcgMi4wNTIgMS41MyAzLjEgMS4xNTkgMS44MjkgMy4xNzcgMy43MzUgNC44NTggNS4wMDIuODk1LjY3NiAxLjYwNCAxLjgzMiAyLjcyNSAyLjI0NVY3NC4xaC0uMDc0Yy0uMjI3LS4zMzUtLjU1OS0uNDg1LS44NTctLjc0NS0uNjc0LS42NzMtMS40Mi0xLjQ5NS0xLjk0My0yLjI0MS0xLjU2Ni0yLjA5My0yLjk1Mi00LjQxLTQuMTgyLTYuODAxLS42MDItMS4xNi0xLjEyMS0yLjQyOC0xLjYwNi0zLjU4Ni0uMjI2LS40NDctLjIyNi0xLjEyMS0uNjAxLTEuMzQ2LS41NjIuODIxLTEuMzgxIDEuNTMyLTEuNzkxIDIuNTM4LS43MTEgMS42MDktLjc4NSAzLjU4OC0xLjA0OSA1LjY0NmwtLjE0Ny4wNzJjLTEuMTktLjI5OS0xLjYwNC0xLjUzLTIuMDU2LTIuNTc1LTEuMTE5LTIuNjU0LTEuMzA3LTYuOTE0LS4zMzYtOS45NzYuMjYtLjc4MyAxLjM4NS0zLjI0OS45MzYtMy45OTUtLjIyNS0uNzE1LS45NzMtMS4xMjItMS4zODMtMS42ODUtLjQ4Mi0uNzA4LTEuMDEtMS42MDQtMS4zNDYtMi4zOS0uODk2LTIuMDkxLTEuMzQ3LTQuNDA4LTIuMzEyLTYuNDk4LS40NTEtLjk3NC0xLjIzNC0xLjk4Mi0xLjg2OC0yLjg3OS0uNzEyLTEuMDA4LTEuNDk1LTEuNzE4LTIuMDU4LTIuOTEzLS4xODYtLjQxMS0uNDQ3LTEuMDgzLS4xNDgtMS41My4wNzMtLjMuMjI1LS40MTIuNTIzLS40ODcuNDg0LS40MDkgMS44NjcuMTExIDIuMzUyLjMzNiAxLjM4NS41NiAyLjU0MyAxLjA4MyAzLjY5OSAxLjg2Ny41MjMuMzc1IDEuMDg0IDEuMDg1IDEuNzU1IDEuMjcyaC43ODZjMS4xOTMuMjYgMi41MzguMDcyIDMuNjYxLjQxIDEuOTc5LjYzNiAzLjc3MiAxLjU2OSA1LjM4IDIuNTc2IDQuODkzIDMuMTAzIDguOTI4IDcuNTEyIDExLjY1MiAxMi43NzguNDQ3Ljg1OC42MzcgMS42NDQgMS4wNDUgMi41MzkuNzg3IDEuODMyIDEuNzYgMy43IDIuNTQxIDUuNDkzLjc4NSAxLjc1NSAxLjUzMyAzLjU0NyAyLjY1NCA1LjAwNS41NTkuNzg0IDIuODA1IDEuMTk1IDMuODEyIDEuNjA2Ljc0NS4zMzUgMS45MDUuNjMzIDIuNTc3IDEuMDQ0IDEuMjcxLjc4MyAyLjUzNyAxLjY4MiAzLjczMiAyLjU0My41OTUuNDQ4IDIuNDY1IDEuMzgyIDIuNTc2IDIuMTNNOTkuNDg0IDM5Ljg0NGE1LjgyIDUuODIgMCAwIDAtMS41MjkuMTg4di4wNzVoLjA3MmMuMzAxLjU5Ny44MjQgMS4wMTEgMS4xOTcgMS41MzIuMzAxLjU5OS41NjIgMS4xOTMuODU3IDEuNzkxbC4wNzItLjA3NGMuNTI3LS4zNzMuNzg5LS45NzEuNzg5LTEuODY4LS4yMjctLjI2NC0uMjYyLS41MjItLjQ1MS0uNzg0LS4yMi0uMzc0LS43MDUtLjU2LTEuMDA3LS44NiIgZmlsbD0iIzVkODdhMSIvPjxwYXRoIGQ9Ik0xNDEuMTQ4IDExMy41NzhoLjc3NHYtMy43ODhoLTEuMTYxbC0uOTQ3IDIuNTg1LTEuMDI5LTIuNTg1aC0xLjExOHYzLjc4OGguNzMxdi0yLjg4MmguMDQxbDEuMDc4IDIuODgyaC41NTdsMS4wNzQtMi44ODJ2Mi44ODJ6bS02LjIzNSAwaC44MTl2LTMuMTQ2aDEuMDcydi0uNjQzaC0zLjAwOHYuNjQzaDEuMTE1bC4wMDIgMy4xNDZ6IiBmaWxsPSIjZjg5ODFkIi8+PC9zdmc+
+[Mysql-url]: https://www.mysql.com/
+
