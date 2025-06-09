@@ -73,8 +73,8 @@ Fitur Utama:
 
 Aplikasi ini dibuat menggunakan:
 
-* [![Next][Java]][Java-url]
-* [![React][Mysql]][Mysql-url]
+* [![Java][Java]][Java-url]
+* [![Mysql][Mysql]][Mysql-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
